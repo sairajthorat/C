@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "11.C": "cpp"
-    }
+        "11.C": "cpp",
+        "19.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
